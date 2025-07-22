@@ -1,0 +1,152 @@
+.header {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem;
+  box-shadow: 1px 1px 5px 2px #DDDDDD;
+  background-color: white;
+}
+
+.header img {
+  width: 5rem;
+  height: 5rem;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+
+.form {
+  margin-top: 2.5rem;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.form input {
+  height: 2.8rem;
+  width: 30rem;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+  padding: 1.1rem 2rem;
+  text-align: center;
+  border: none;
+  box-shadow: 1px 1px 5px 2px #DDDDDD;
+}
+
+.form button {
+  color: rgb(250, 250, 250);
+  background-color: rgb(15, 15, 15);
+  text-align: center;
+  height: 2.8rem;
+  width: 5rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  border: none;
+  box-shadow: 1px 1px 5px 2px #DDDDDD;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: rgb(82, 80, 80);
+}
+
+ul {
+  font-size: 1.1rem;
+  padding-left: 3rem;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 3rem;
+}
+
+li {
+  list-style: disc inside;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+
+h2{
+  width: 90rem;
+  text-align: center;
+  padding-left: 2rem;
+  line-height: 1.6rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.get-recipe-container{
+  font-size: 1rem;
+  display: flex;
+  background-color: rgba(231, 231, 231, 0.5);
+  width: 55rem;
+  gap: 5rem;
+  margin:auto;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 3rem;
+  line-height: 2rem;
+  border-radius: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.get-recipe-container h3 {
+  margin-bottom: 1.5rem;
+}
+
+.getRecipeBtn{
+  background-color: rgb(224, 98, 98);
+  border: none;
+  width: 12rem;
+  padding:1rem 1rem;
+  border-radius: 1rem;
+  color: rgb(250, 250, 250);
+  font-size: 1rem;
+}
+
+.ai-recommend{
+  width: 80rem;
+  margin: auto;
+  padding: 2rem 3rem;
+  font-size: 1rem;
+}
+
+.ai-recommend li{
+  line-height: 1.6rem;
+  margin: 1rem auto;
+}
+
+.ai-recommend ul, ol{
+  padding-left: 1.5rem;
+  margin-left: 0;
+  list-style-position: outside;
+  margin-bottom: 1rem;
+}
+
+.ai-recommend p{
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  text-align: left;
+  margin-top: 2rem;
+}
+
+#h2{
+  width: 40rem;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+.ai-recommend h2{ 
+  width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+}
+
+.ai-recommend strong{
+  font-size: 1.2rem;
+}

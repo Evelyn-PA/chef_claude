@@ -1,7 +1,7 @@
 
 # 👨‍🍳 Chef Claude
 
-![Chef Claude Demo GIF] (./public/Images/chef claude gif.gif)
+![Chef Claude Demo GIF](./public/Images/chef%20claude%20gif.gif)
 
 **Chef Claude** is your AI-powered kitchen assistant! Simply enter the ingredients you have on hand, and Chef Claude will use **Google Gemini** to instantly suggest creative and delicious recipes you can make.
 
